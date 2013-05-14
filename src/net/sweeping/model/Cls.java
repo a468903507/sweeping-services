@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- * 菜品分类
+ * 菜品分类  不包括套菜
  * @author hk
  */
 public class Cls implements Serializable {
