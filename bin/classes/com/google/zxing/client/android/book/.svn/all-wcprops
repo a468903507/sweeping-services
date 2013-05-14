@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/book
+END
+SearchBookContentsListItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/book/SearchBookContentsListItem.java
+END
+SearchBookContentsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/book/SearchBookContentsActivity.java
+END
+SearchBookContentsResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/book/SearchBookContentsResult.java
+END
+BrowseBookListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/book/BrowseBookListener.java
+END
+SearchBookContentsAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/book/SearchBookContentsAdapter.java
+END

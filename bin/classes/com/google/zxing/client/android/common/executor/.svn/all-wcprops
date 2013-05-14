@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/common/executor
+END
+AsyncTaskExecManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/common/executor/AsyncTaskExecManager.java
+END
+DefaultAsyncTaskExecInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/common/executor/DefaultAsyncTaskExecInterface.java
+END
+AsyncTaskExecInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/common/executor/AsyncTaskExecInterface.java
+END
+HoneycombAsyncTaskExecInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/common/executor/HoneycombAsyncTaskExecInterface.java
+END

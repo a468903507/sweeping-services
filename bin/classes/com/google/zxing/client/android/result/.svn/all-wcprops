@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/result
+END
+TextResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/result/TextResultHandler.java
+END
+AddressBookResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/result/AddressBookResultHandler.java
+END
+CalendarResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/result/CalendarResultHandler.java
+END
+ProductResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/result/ProductResultHandler.java
+END
+ResultHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/result/ResultHandlerFactory.java
+END
+ResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/result/ResultHandler.java
+END
+GeoResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/result/GeoResultHandler.java
+END
+WifiResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/result/WifiResultHandler.java
+END
+ISBNResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/result/ISBNResultHandler.java
+END
+EmailAddressResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/result/EmailAddressResultHandler.java
+END
+SMSResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/result/SMSResultHandler.java
+END
+TelResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/result/TelResultHandler.java
+END
+URIResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/result/URIResultHandler.java
+END

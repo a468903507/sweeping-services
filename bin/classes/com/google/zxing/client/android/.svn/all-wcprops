@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android
+END
+ViewfinderView.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/ViewfinderView.java
+END
+ViewfinderResultPointCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/ViewfinderResultPointCallback.java
+END
+DecodeFormatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/DecodeFormatManager.java
+END
+PreferencesActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/PreferencesActivity.java
+END
+FinishListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/FinishListener.java
+END
+BeepManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/BeepManager.java
+END
+DecodeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/DecodeHandler.java
+END
+Contents.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/Contents.java
+END
+DecodeThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/DecodeThread.java
+END
+IntentSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/IntentSource.java
+END
+Intents.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/Intents.java
+END
+HttpHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/HttpHelper.java
+END
+CaptureActivityHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/CaptureActivityHandler.java
+END
+CaptureActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/CaptureActivity.java
+END
+LocaleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/LocaleManager.java
+END
+InactivityTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/InactivityTimer.java
+END

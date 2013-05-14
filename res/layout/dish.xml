@@ -66,6 +66,6 @@
 
             <include layout="@layout/frame_pay" />
         </LinearLayout>
-        
     </LinearLayout>
+
 </LinearLayout>

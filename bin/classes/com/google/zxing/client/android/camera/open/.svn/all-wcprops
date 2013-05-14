@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/camera/open
+END
+OpenCameraManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/camera/open/OpenCameraManager.java
+END
+GingerbreadOpenCameraInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/camera/open/GingerbreadOpenCameraInterface.java
+END
+OpenCameraInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/camera/open/OpenCameraInterface.java
+END
+DefaultOpenCameraInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/guoxin/!svn/ver/13349/Moble/2012/android/BarcodeScannerExample/src/com/google/zxing/client/android/camera/open/DefaultOpenCameraInterface.java
+END
